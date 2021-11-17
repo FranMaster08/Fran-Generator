@@ -1,0 +1,8 @@
+<header>
+  <h1><%= navtitle %></h1>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Registro</a></li>
+    <li><a href="#">Login</a></li>
+  </ul>
+</header>

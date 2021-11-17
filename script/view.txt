@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="es">
+  <%- include('partials/head', {title: 'home'}) %>
+  <body>
+    <%- include('partials/nav', {navtitle: 'Fran'}) %>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+  </body>
+</html>
